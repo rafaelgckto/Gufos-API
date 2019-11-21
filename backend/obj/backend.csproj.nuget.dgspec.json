@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fic\\Desktop\\Gufos\\backend\\backend.csproj": {}
+    "C:\\Gufos\\v2.0\\AulaReact\\gufosAPI\\backend\\backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fic\\Desktop\\Gufos\\backend\\backend.csproj": {
+    "C:\\Gufos\\v2.0\\AulaReact\\gufosAPI\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fic\\Desktop\\Gufos\\backend\\backend.csproj",
+        "projectUniqueName": "C:\\Gufos\\v2.0\\AulaReact\\gufosAPI\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "C:\\Users\\fic\\Desktop\\Gufos\\backend\\backend.csproj",
+        "projectPath": "C:\\Gufos\\v2.0\\AulaReact\\gufosAPI\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fic\\Desktop\\Gufos\\backend\\obj\\",
+        "outputPath": "C:\\Gufos\\v2.0\\AulaReact\\gufosAPI\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
